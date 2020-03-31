@@ -2,8 +2,8 @@
 Team slogan 
 
 ## Members:
-* Дмитриева Светлана Михайловна - лид
-* Дмитриева Светлана Михайловна - разработчик 1
-* Дмитриева Светлана Михайловна - разработчик 2
-* Дмитриева Светлана Михайловна - разработчик 3
-* Дмитриева Светлана Михайловна - разработчик 4
+* Dmitrieva Svetlana - lead
+* Dmitrieva Svetlana - developer 1
+* Dmitrieva Svetlana - developer 2
+* Dmitrieva Svetlana - developer 3
+* Dmitrieva Svetlana - tester
