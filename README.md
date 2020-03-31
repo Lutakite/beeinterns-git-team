@@ -2,8 +2,8 @@
 SMDmitrieva
 
 ## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+* Dmitrieva Svetlana - lead
+* Dmitrieva Svetlana - developer 1
+* Dmitrieva Svetlana - developer 2
+* Dmitrieva Svetlana - developer 3
+* Dmitrieva Svetlana - tester
