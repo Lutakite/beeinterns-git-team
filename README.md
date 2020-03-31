@@ -1,5 +1,5 @@
 # SMDmitrieva
-Team slogan 
+SMDmitrieva
 
 ## Members:
 * Member 1
