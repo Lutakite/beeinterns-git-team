@@ -1,4 +1,4 @@
-# Team name
+# SMDmitrieva
 Team slogan 
 
 ## Members:
